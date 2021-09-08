@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/fortest-deploy/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/fortest-deploy/static/js/main.2ec5e4c7.chunk.js",
+    "main.js.map": "/fortest-deploy/static/js/main.2ec5e4c7.chunk.js.map",
+    "runtime-main.js": "/fortest-deploy/static/js/runtime-main.f0c29d25.js",
+    "runtime-main.js.map": "/fortest-deploy/static/js/runtime-main.f0c29d25.js.map",
+    "static/js/2.6957befe.chunk.js": "/fortest-deploy/static/js/2.6957befe.chunk.js",
+    "static/js/2.6957befe.chunk.js.map": "/fortest-deploy/static/js/2.6957befe.chunk.js.map",
+    "static/js/3.c72e2bc8.chunk.js": "/fortest-deploy/static/js/3.c72e2bc8.chunk.js",
+    "static/js/3.c72e2bc8.chunk.js.map": "/fortest-deploy/static/js/3.c72e2bc8.chunk.js.map",
+    "index.html": "/fortest-deploy/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/fortest-deploy/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.6957befe.chunk.js.LICENSE.txt": "/fortest-deploy/static/js/2.6957befe.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/fortest-deploy/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f0c29d25.js",
+    "static/js/2.6957befe.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.2ec5e4c7.chunk.js"
+  ]
+}
